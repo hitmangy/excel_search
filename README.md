@@ -1,15 +1,18 @@
-```
+
 # Excel Search Tool
 
 This Python project is a tool for searching through Excel files in a specified directory. It allows you to search for specific terms within the contents of Excel files and view the results in a graphical interface. You can also save the search results to a CSV file for further analysis.
 
+![alt text](https://i.ibb.co/jL0cRPW/Screenshot.png)
+
+ 
 ## Features
 - Browse for a directory containing Excel files.
 - Enter multiple search terms (one per line).
 - View the search results in a table with details like the term, file path, sheet name, and cell location.
 - Save the search results to a CSV file.
 - Switch between dark and light mode for the UI.
-
+   
 ## Libraries Used
 This project uses the following Python libraries:
 - **openpyxl**: A library for reading and writing Excel files (`.xlsx` and `.xlsm`).
@@ -20,7 +23,7 @@ This project uses the following Python libraries:
 - **datetime**: Standard Python library for handling date and time.
 - **time**: Standard Python library for measuring time (e.g., to calculate the search duration).
 - **webbrowser**: Standard Python library for opening files in the default web browser.
-
+   
 ## Installation
 
 1. Clone or download the repository to your local machine.
