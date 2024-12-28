@@ -1,5 +1,3 @@
-Here's the `README.md` in a copy-paste friendly format:
-
 ```
 # Excel Search Tool
 
